@@ -7,7 +7,7 @@ git init
 cp /path/to/RFID_PROJECT.pdf .
 
 # index.html oluştur
-cat > index.html <<'HTML'
+ cat > index.html <<'HTML'
 <!doctype html>
 <html>
 <head>
